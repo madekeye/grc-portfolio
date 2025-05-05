@@ -8,7 +8,7 @@ Welcome to the **Cybersecurity Case Studies** repository. This collection showca
 
 | Case Study Title                               | Focus Area                | Tools Used                         |
 |------------------------------------------------|---------------------------|-------------------------------------|
-| [Network Traffic Analysis Using Wireshark](./wireshark_case_study.md) | Network Forensics         | Wireshark, VirusTotal, Python      |
+| [Network Traffic Analysis Using Wireshark](./case-studies/network_traffic_analysis.md) | Network Forensics         | Wireshark, VirusTotal, Python      |
 | [DNS Tunneling Detection](./dns_tunneling_case_study.md)              | C2 Communication, DNS     | Wireshark, tshark, Splunk          |
 | [Malware Reverse Engineering - EXE Sample](./malware_analysis_case_study.md) | Malware Analysis           | Ghidra, VirusTotal, Hybrid Analysis|
 | [Suspicious PowerShell Activity](./powershell_case_study.md)          | Endpoint Threat Detection | Sysmon, ELK Stack, Sigma Rules      |
