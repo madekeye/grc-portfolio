@@ -59,9 +59,8 @@ This content is licensed under the [MIT License](./LICENSE).
 
 ## 🙋‍♂️ Maintainer
 
-**Michael Adekeye**  
-GRC Analyst | Cybersecurity Advocate  
-[LinkedIn](https://www.linkedin.com/michaeladekeye) | [GitHub](https://github.com/madekeye)
+**Michael A**  
+Position  
 
 ---
 
