@@ -69,4 +69,10 @@ This document outlines the key roles involved in supporting the organization’s
 
 ## 📌 Notes
 
-- This document should be reviewed quarterly or during major organizational c
+- This document should be reviewed quarterly or during major organizational changes.
+- All roles must be aligned with job descriptions and communicated across the organization.
+
+---
+
+📝 *Last Updated:* `YYYY-MM-DD`  
+*Maintainer:* `grc-team@yourdomain.com`
