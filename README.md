@@ -13,6 +13,7 @@ This portfolio showcases sample templates, project playbooks, and case studies I
 | `soc2-readiness/` | A playbook and checklist to support SOC 2 Type 2 audit preparation |
 | `playbooks/` | Process documents for third-party risk, access reviews, and audit prep |
 | `scripts/` | Light automation to support GRC activities (e.g., access review reports) |
+| `vulnerability-assessment-report/` | A sample of real-world examples of vulnerability assessment |
 | `case-studies/` | Written examples of successful GRC project outcomes |
 | `resources/` | A curated list of frameworks, tools, and learning resources |
 
