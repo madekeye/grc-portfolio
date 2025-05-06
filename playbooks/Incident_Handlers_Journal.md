@@ -11,10 +11,7 @@ This journal captures key experiences and reflections from practical cybersecuri
 | Field              | Details |
 |--------------------|---------|
 | Date               | July 23, 2024 |
-| Description        | Documenting a cybersecurity incident
-This incident occurred in the two phases:
-1. Detection and Analysis: The scenario outlines how the organization first detected the ransomware incident. For the analysis step, the organization contacted several organizations for technical assistance.
-2. Containment, Eradication, and Recovery: The scenario details some steps that the organization took to contain the incident. For example, the company shut down their computer systems. However, since they could not work to eradicate and recover from the incident alone, they contacted several other organizations for assistance. |
+| Description        | Documenting a cybersecurity incident This incident occurred in the two phases: 1. Detection and Analysis: The scenario outlines how the organization first detected the ransomware incident. For the analysis step, the organization contacted several organizations for technical assistance. 2. Containment, Eradication, and Recovery: The scenario details some steps that the organization took to contain the incident. For example, the company shut down their computer systems. However, since they could not work to eradicate and recover from the incident alone, they contacted several other organizations for assistance. |
 | Tools Used         | None |
 | The 5 W's          | Who: An organized group of unethical hackers
 What: A Ransomware attack
