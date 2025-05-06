@@ -1,6 +1,6 @@
 # 🚨 Phishing Alert Incident Case Study
 
-##📘 Case Study Summary: Phishing Alert Investigation in a Financial Services Organization
+## 📘 Case Study Summary: Phishing Alert Investigation in a Financial Services Organization
 Scenario Summary:
 
 As a Security Analyst at a financial services firm, you received an alert related to a suspicious email and file download. Upon further investigation, the email contained a malicious attachment confirmed by its hash value. Following your organization’s phishing response playbook and flowchart, you evaluated the alert, reviewed the sender’s details, message content, and malicious attachment. You recorded findings in the incident handler’s journal and completed the alert ticket update, deciding to escalate the incident due to the confirmed threat.
