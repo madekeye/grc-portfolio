@@ -1,4 +1,4 @@
-# 📘 Incident Handler’s Journal – Michael Adekeye
+# 📘 Incident Handler’s Journal – Michael A.
 
 This journal captures key experiences and reflections from practical cybersecurity investigations, covering triage, analysis, and response processes.
 
